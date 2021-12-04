@@ -1,0 +1,1 @@
+Simple_string_without_sense Other_string
